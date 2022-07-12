@@ -1,0 +1,6 @@
+1 Loi 1000
+2 Eris -100
+3 Casten 0
+4 Erost 20
+5 Foldtel -20
+5 Elizabet 0

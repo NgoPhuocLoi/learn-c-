@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 #include <array>
-
 class GradeBook {
 	
 	public:

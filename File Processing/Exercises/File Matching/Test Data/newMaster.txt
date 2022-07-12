@@ -1,0 +1,6 @@
+100 Alan Jones 378.17
+300 Mary Smith 7.19
+500 Sam Sharp 120
+700 Suuzy Green -14.22
+Unmatched transaction record for account number # 200
+Unmatched transaction record for account number # 900

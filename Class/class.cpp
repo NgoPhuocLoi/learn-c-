@@ -1,4 +1,3 @@
-
 #include "GradeBook.h"
 using namespace std;
 
